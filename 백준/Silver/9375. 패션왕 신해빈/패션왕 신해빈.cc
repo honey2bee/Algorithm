@@ -22,6 +22,4 @@ int main()
             num *= j.second + 1;
         cout << num - 1 << "\n";
     }
-    if (N == 0)
-        cout << 0;
 }
